@@ -1,0 +1,14 @@
+id: IA5014844
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-05-29 08:56:01.602867
+last_modified: 2023-05-29 08:56:01.602882
+bases:
+  '4015':
+    title: Magnetizing (Wangdü) Prayer
+    base_file: 4015.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
